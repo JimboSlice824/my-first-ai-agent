@@ -198,9 +198,10 @@ my-first-ai-agent/
 
 ***
 
-## 🎬 Live Demo
+## 🎬 Sneak Peak
 
-> 📹 *Terminal demo coming soon — recorded with Terminalizer*
+> ![alt text](image.png)
+> ![alt text](image-1.png)
 
 <video controls src="ai-agent-demo.mov" title="AI Agent Demo"></video>
 
