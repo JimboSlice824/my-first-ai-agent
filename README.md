@@ -198,12 +198,10 @@ my-first-ai-agent/
 
 ***
 
-## 🎬 Sneak Peak
+## 📸 Sneak Peak
 
 > ![alt text](image.png)
 > ![alt text](image-1.png)
-
-<video controls src="ai-agent-demo.mov" title="AI Agent Demo"></video>
 
 ***
 
