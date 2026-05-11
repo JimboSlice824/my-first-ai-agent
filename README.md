@@ -202,6 +202,8 @@ my-first-ai-agent/
 
 > 📹 *Terminal demo coming soon — recorded with Terminalizer*
 
+<video controls src="ai-agent-demo.mov" title="AI Agent Demo"></video>
+
 ***
 
 *Built by Jeremy — self-taught Python developer, aspiring AI Engineer 🚀*
