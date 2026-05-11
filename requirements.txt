@@ -1,0 +1,14 @@
+requests
+pandas
+numpy
+python-dotenv
+ipykernel
+langchain
+wikipedia
+langchain-community
+langchain-openai
+langchain-anthropic
+python-dotenv
+pydantic
+ipykernel
+ddgs
